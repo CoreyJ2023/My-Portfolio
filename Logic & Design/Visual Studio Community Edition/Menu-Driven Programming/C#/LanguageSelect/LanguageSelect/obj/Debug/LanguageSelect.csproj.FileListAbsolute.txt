@@ -1,0 +1,7 @@
+C:\Users\Corey\Desktop\Corey's Portfolio\Logic & Design\Visual Studio 2019 Community Edition\Menu-Driven Programming\LanguageSelect\LanguageSelect\bin\Debug\LanguageSelect.exe.config
+C:\Users\Corey\Desktop\Corey's Portfolio\Logic & Design\Visual Studio 2019 Community Edition\Menu-Driven Programming\LanguageSelect\LanguageSelect\bin\Debug\LanguageSelect.exe
+C:\Users\Corey\Desktop\Corey's Portfolio\Logic & Design\Visual Studio 2019 Community Edition\Menu-Driven Programming\LanguageSelect\LanguageSelect\bin\Debug\LanguageSelect.pdb
+C:\Users\Corey\Desktop\Corey's Portfolio\Logic & Design\Visual Studio 2019 Community Edition\Menu-Driven Programming\LanguageSelect\LanguageSelect\obj\Debug\LanguageSelect.csprojAssemblyReference.cache
+C:\Users\Corey\Desktop\Corey's Portfolio\Logic & Design\Visual Studio 2019 Community Edition\Menu-Driven Programming\LanguageSelect\LanguageSelect\obj\Debug\LanguageSelect.csproj.CoreCompileInputs.cache
+C:\Users\Corey\Desktop\Corey's Portfolio\Logic & Design\Visual Studio 2019 Community Edition\Menu-Driven Programming\LanguageSelect\LanguageSelect\obj\Debug\LanguageSelect.exe
+C:\Users\Corey\Desktop\Corey's Portfolio\Logic & Design\Visual Studio 2019 Community Edition\Menu-Driven Programming\LanguageSelect\LanguageSelect\obj\Debug\LanguageSelect.pdb

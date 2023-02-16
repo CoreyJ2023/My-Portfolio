@@ -1,0 +1,13 @@
+C:\Users\Corey\Desktop\Corey's Portfolio\Logic & Design\Visual Studio 2019 Community Edition\Decision and Booleans\C#\Algorithm2\bin\Debug\netcoreapp3.1\Algorithm2.exe
+C:\Users\Corey\Desktop\Corey's Portfolio\Logic & Design\Visual Studio 2019 Community Edition\Decision and Booleans\C#\Algorithm2\bin\Debug\netcoreapp3.1\Algorithm2.deps.json
+C:\Users\Corey\Desktop\Corey's Portfolio\Logic & Design\Visual Studio 2019 Community Edition\Decision and Booleans\C#\Algorithm2\bin\Debug\netcoreapp3.1\Algorithm2.runtimeconfig.json
+C:\Users\Corey\Desktop\Corey's Portfolio\Logic & Design\Visual Studio 2019 Community Edition\Decision and Booleans\C#\Algorithm2\bin\Debug\netcoreapp3.1\Algorithm2.runtimeconfig.dev.json
+C:\Users\Corey\Desktop\Corey's Portfolio\Logic & Design\Visual Studio 2019 Community Edition\Decision and Booleans\C#\Algorithm2\bin\Debug\netcoreapp3.1\Algorithm2.dll
+C:\Users\Corey\Desktop\Corey's Portfolio\Logic & Design\Visual Studio 2019 Community Edition\Decision and Booleans\C#\Algorithm2\bin\Debug\netcoreapp3.1\Algorithm2.pdb
+C:\Users\Corey\Desktop\Corey's Portfolio\Logic & Design\Visual Studio 2019 Community Edition\Decision and Booleans\C#\Algorithm2\obj\Debug\netcoreapp3.1\Algorithm2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Corey\Desktop\Corey's Portfolio\Logic & Design\Visual Studio 2019 Community Edition\Decision and Booleans\C#\Algorithm2\obj\Debug\netcoreapp3.1\Algorithm2.AssemblyInfoInputs.cache
+C:\Users\Corey\Desktop\Corey's Portfolio\Logic & Design\Visual Studio 2019 Community Edition\Decision and Booleans\C#\Algorithm2\obj\Debug\netcoreapp3.1\Algorithm2.AssemblyInfo.cs
+C:\Users\Corey\Desktop\Corey's Portfolio\Logic & Design\Visual Studio 2019 Community Edition\Decision and Booleans\C#\Algorithm2\obj\Debug\netcoreapp3.1\Algorithm2.csproj.CoreCompileInputs.cache
+C:\Users\Corey\Desktop\Corey's Portfolio\Logic & Design\Visual Studio 2019 Community Edition\Decision and Booleans\C#\Algorithm2\obj\Debug\netcoreapp3.1\Algorithm2.dll
+C:\Users\Corey\Desktop\Corey's Portfolio\Logic & Design\Visual Studio 2019 Community Edition\Decision and Booleans\C#\Algorithm2\obj\Debug\netcoreapp3.1\Algorithm2.pdb
+C:\Users\Corey\Desktop\Corey's Portfolio\Logic & Design\Visual Studio 2019 Community Edition\Decision and Booleans\C#\Algorithm2\obj\Debug\netcoreapp3.1\Algorithm2.genruntimeconfig.cache
