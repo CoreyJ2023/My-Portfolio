@@ -1,0 +1,24 @@
+C:\Users\Corey\source\repos\Decking Cost Calculator\Decking Cost Calculator\bin\Debug\Decking Cost Calculator.exe.config
+C:\Users\Corey\source\repos\Decking Cost Calculator\Decking Cost Calculator\bin\Debug\Decking Cost Calculator.exe
+C:\Users\Corey\source\repos\Decking Cost Calculator\Decking Cost Calculator\bin\Debug\Decking Cost Calculator.pdb
+C:\Users\Corey\source\repos\Decking Cost Calculator\Decking Cost Calculator\bin\Debug\Decking Cost Calculator.xml
+C:\Users\Corey\source\repos\Decking Cost Calculator\Decking Cost Calculator\obj\Debug\Decking Cost Calculator.vbprojResolveAssemblyReference.cache
+C:\Users\Corey\source\repos\Decking Cost Calculator\Decking Cost Calculator\obj\Debug\Decking_Cost_Calculator.frmDecking.resources
+C:\Users\Corey\source\repos\Decking Cost Calculator\Decking Cost Calculator\obj\Debug\Decking_Cost_Calculator.Resources.resources
+C:\Users\Corey\source\repos\Decking Cost Calculator\Decking Cost Calculator\obj\Debug\Decking Cost Calculator.vbproj.GenerateResource.Cache
+C:\Users\Corey\source\repos\Decking Cost Calculator\Decking Cost Calculator\obj\Debug\Decking Cost Calculator.vbproj.CoreCompileInputs.cache
+C:\Users\Corey\source\repos\Decking Cost Calculator\Decking Cost Calculator\obj\Debug\Decking Cost Calculator.exe
+C:\Users\Corey\source\repos\Decking Cost Calculator\Decking Cost Calculator\obj\Debug\Decking Cost Calculator.xml
+C:\Users\Corey\source\repos\Decking Cost Calculator\Decking Cost Calculator\obj\Debug\Decking Cost Calculator.pdb
+C:\Users\Corey\Desktop\Corey's Portfolio\Visual Studio Windows Forms\Visual Basic\Decking Cost Calculator\Decking Cost Calculator\Decking Cost Calculator\bin\Debug\Decking Cost Calculator.exe.config
+C:\Users\Corey\Desktop\Corey's Portfolio\Visual Studio Windows Forms\Visual Basic\Decking Cost Calculator\Decking Cost Calculator\Decking Cost Calculator\bin\Debug\Decking Cost Calculator.exe
+C:\Users\Corey\Desktop\Corey's Portfolio\Visual Studio Windows Forms\Visual Basic\Decking Cost Calculator\Decking Cost Calculator\Decking Cost Calculator\bin\Debug\Decking Cost Calculator.pdb
+C:\Users\Corey\Desktop\Corey's Portfolio\Visual Studio Windows Forms\Visual Basic\Decking Cost Calculator\Decking Cost Calculator\Decking Cost Calculator\bin\Debug\Decking Cost Calculator.xml
+C:\Users\Corey\Desktop\Corey's Portfolio\Visual Studio Windows Forms\Visual Basic\Decking Cost Calculator\Decking Cost Calculator\Decking Cost Calculator\obj\Debug\Decking Cost Calculator.vbprojAssemblyReference.cache
+C:\Users\Corey\Desktop\Corey's Portfolio\Visual Studio Windows Forms\Visual Basic\Decking Cost Calculator\Decking Cost Calculator\Decking Cost Calculator\obj\Debug\Decking_Cost_Calculator.frmDecking.resources
+C:\Users\Corey\Desktop\Corey's Portfolio\Visual Studio Windows Forms\Visual Basic\Decking Cost Calculator\Decking Cost Calculator\Decking Cost Calculator\obj\Debug\Decking_Cost_Calculator.Resources.resources
+C:\Users\Corey\Desktop\Corey's Portfolio\Visual Studio Windows Forms\Visual Basic\Decking Cost Calculator\Decking Cost Calculator\Decking Cost Calculator\obj\Debug\Decking Cost Calculator.vbproj.GenerateResource.cache
+C:\Users\Corey\Desktop\Corey's Portfolio\Visual Studio Windows Forms\Visual Basic\Decking Cost Calculator\Decking Cost Calculator\Decking Cost Calculator\obj\Debug\Decking Cost Calculator.vbproj.CoreCompileInputs.cache
+C:\Users\Corey\Desktop\Corey's Portfolio\Visual Studio Windows Forms\Visual Basic\Decking Cost Calculator\Decking Cost Calculator\Decking Cost Calculator\obj\Debug\Decking Cost Calculator.exe
+C:\Users\Corey\Desktop\Corey's Portfolio\Visual Studio Windows Forms\Visual Basic\Decking Cost Calculator\Decking Cost Calculator\Decking Cost Calculator\obj\Debug\Decking Cost Calculator.xml
+C:\Users\Corey\Desktop\Corey's Portfolio\Visual Studio Windows Forms\Visual Basic\Decking Cost Calculator\Decking Cost Calculator\Decking Cost Calculator\obj\Debug\Decking Cost Calculator.pdb
