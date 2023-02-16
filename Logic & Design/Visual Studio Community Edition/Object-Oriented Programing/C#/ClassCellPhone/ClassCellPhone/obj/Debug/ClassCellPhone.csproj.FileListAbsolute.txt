@@ -1,0 +1,7 @@
+C:\Users\Corey\Desktop\Corey's Portfolio\Logic & Design\Visual Studio 2019 Community Edition\Object-Oriented Programing\C#\ClassCellPhone\ClassCellPhone\bin\Debug\ClassCellPhone.exe.config
+C:\Users\Corey\Desktop\Corey's Portfolio\Logic & Design\Visual Studio 2019 Community Edition\Object-Oriented Programing\C#\ClassCellPhone\ClassCellPhone\bin\Debug\ClassCellPhone.exe
+C:\Users\Corey\Desktop\Corey's Portfolio\Logic & Design\Visual Studio 2019 Community Edition\Object-Oriented Programing\C#\ClassCellPhone\ClassCellPhone\bin\Debug\ClassCellPhone.pdb
+C:\Users\Corey\Desktop\Corey's Portfolio\Logic & Design\Visual Studio 2019 Community Edition\Object-Oriented Programing\C#\ClassCellPhone\ClassCellPhone\obj\Debug\ClassCellPhone.csprojAssemblyReference.cache
+C:\Users\Corey\Desktop\Corey's Portfolio\Logic & Design\Visual Studio 2019 Community Edition\Object-Oriented Programing\C#\ClassCellPhone\ClassCellPhone\obj\Debug\ClassCellPhone.csproj.CoreCompileInputs.cache
+C:\Users\Corey\Desktop\Corey's Portfolio\Logic & Design\Visual Studio 2019 Community Edition\Object-Oriented Programing\C#\ClassCellPhone\ClassCellPhone\obj\Debug\ClassCellPhone.exe
+C:\Users\Corey\Desktop\Corey's Portfolio\Logic & Design\Visual Studio 2019 Community Edition\Object-Oriented Programing\C#\ClassCellPhone\ClassCellPhone\obj\Debug\ClassCellPhone.pdb

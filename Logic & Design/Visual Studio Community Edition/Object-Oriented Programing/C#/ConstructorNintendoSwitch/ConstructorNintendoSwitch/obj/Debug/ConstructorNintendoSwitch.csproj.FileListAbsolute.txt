@@ -1,0 +1,7 @@
+C:\Users\Corey\Desktop\Corey's Portfolio\Logic & Design\Visual Studio 2019 Community Edition\Object-Oriented Programing\C#\ConstructorNintendoSwitch\ConstructorNintendoSwitch\bin\Debug\ConstructorNintendoSwitch.exe.config
+C:\Users\Corey\Desktop\Corey's Portfolio\Logic & Design\Visual Studio 2019 Community Edition\Object-Oriented Programing\C#\ConstructorNintendoSwitch\ConstructorNintendoSwitch\bin\Debug\ConstructorNintendoSwitch.exe
+C:\Users\Corey\Desktop\Corey's Portfolio\Logic & Design\Visual Studio 2019 Community Edition\Object-Oriented Programing\C#\ConstructorNintendoSwitch\ConstructorNintendoSwitch\bin\Debug\ConstructorNintendoSwitch.pdb
+C:\Users\Corey\Desktop\Corey's Portfolio\Logic & Design\Visual Studio 2019 Community Edition\Object-Oriented Programing\C#\ConstructorNintendoSwitch\ConstructorNintendoSwitch\obj\Debug\ConstructorNintendoSwitch.csprojAssemblyReference.cache
+C:\Users\Corey\Desktop\Corey's Portfolio\Logic & Design\Visual Studio 2019 Community Edition\Object-Oriented Programing\C#\ConstructorNintendoSwitch\ConstructorNintendoSwitch\obj\Debug\ConstructorNintendoSwitch.csproj.CoreCompileInputs.cache
+C:\Users\Corey\Desktop\Corey's Portfolio\Logic & Design\Visual Studio 2019 Community Edition\Object-Oriented Programing\C#\ConstructorNintendoSwitch\ConstructorNintendoSwitch\obj\Debug\ConstructorNintendoSwitch.exe
+C:\Users\Corey\Desktop\Corey's Portfolio\Logic & Design\Visual Studio 2019 Community Edition\Object-Oriented Programing\C#\ConstructorNintendoSwitch\ConstructorNintendoSwitch\obj\Debug\ConstructorNintendoSwitch.pdb
