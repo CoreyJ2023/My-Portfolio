@@ -1,0 +1,14 @@
+C:\Users\Corey\Desktop\Corey's Portfolio\Logic & Design\Visual Studio 2019 Community Edition\Structs\C#\StructFunction\bin\Debug\netcoreapp3.1\StructFunction.exe
+C:\Users\Corey\Desktop\Corey's Portfolio\Logic & Design\Visual Studio 2019 Community Edition\Structs\C#\StructFunction\bin\Debug\netcoreapp3.1\StructFunction.deps.json
+C:\Users\Corey\Desktop\Corey's Portfolio\Logic & Design\Visual Studio 2019 Community Edition\Structs\C#\StructFunction\bin\Debug\netcoreapp3.1\StructFunction.runtimeconfig.json
+C:\Users\Corey\Desktop\Corey's Portfolio\Logic & Design\Visual Studio 2019 Community Edition\Structs\C#\StructFunction\bin\Debug\netcoreapp3.1\StructFunction.runtimeconfig.dev.json
+C:\Users\Corey\Desktop\Corey's Portfolio\Logic & Design\Visual Studio 2019 Community Edition\Structs\C#\StructFunction\bin\Debug\netcoreapp3.1\StructFunction.dll
+C:\Users\Corey\Desktop\Corey's Portfolio\Logic & Design\Visual Studio 2019 Community Edition\Structs\C#\StructFunction\bin\Debug\netcoreapp3.1\StructFunction.pdb
+C:\Users\Corey\Desktop\Corey's Portfolio\Logic & Design\Visual Studio 2019 Community Edition\Structs\C#\StructFunction\obj\Debug\netcoreapp3.1\StructFunction.csproj.AssemblyReference.cache
+C:\Users\Corey\Desktop\Corey's Portfolio\Logic & Design\Visual Studio 2019 Community Edition\Structs\C#\StructFunction\obj\Debug\netcoreapp3.1\StructFunction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Corey\Desktop\Corey's Portfolio\Logic & Design\Visual Studio 2019 Community Edition\Structs\C#\StructFunction\obj\Debug\netcoreapp3.1\StructFunction.AssemblyInfoInputs.cache
+C:\Users\Corey\Desktop\Corey's Portfolio\Logic & Design\Visual Studio 2019 Community Edition\Structs\C#\StructFunction\obj\Debug\netcoreapp3.1\StructFunction.AssemblyInfo.cs
+C:\Users\Corey\Desktop\Corey's Portfolio\Logic & Design\Visual Studio 2019 Community Edition\Structs\C#\StructFunction\obj\Debug\netcoreapp3.1\StructFunction.csproj.CoreCompileInputs.cache
+C:\Users\Corey\Desktop\Corey's Portfolio\Logic & Design\Visual Studio 2019 Community Edition\Structs\C#\StructFunction\obj\Debug\netcoreapp3.1\StructFunction.dll
+C:\Users\Corey\Desktop\Corey's Portfolio\Logic & Design\Visual Studio 2019 Community Edition\Structs\C#\StructFunction\obj\Debug\netcoreapp3.1\StructFunction.pdb
+C:\Users\Corey\Desktop\Corey's Portfolio\Logic & Design\Visual Studio 2019 Community Edition\Structs\C#\StructFunction\obj\Debug\netcoreapp3.1\StructFunction.genruntimeconfig.cache
