@@ -1,0 +1,10 @@
+C:\Users\Corey\Desktop\Corey's Portfolio\Visual Studio Windows Forms\C#\Big Movie Theater\Big Movie Theater\bin\Debug\Big Movie Theater.exe.config
+C:\Users\Corey\Desktop\Corey's Portfolio\Visual Studio Windows Forms\C#\Big Movie Theater\Big Movie Theater\bin\Debug\Big Movie Theater.exe
+C:\Users\Corey\Desktop\Corey's Portfolio\Visual Studio Windows Forms\C#\Big Movie Theater\Big Movie Theater\bin\Debug\Big Movie Theater.pdb
+C:\Users\Corey\Desktop\Corey's Portfolio\Visual Studio Windows Forms\C#\Big Movie Theater\Big Movie Theater\obj\Debug\Big_Movie_Theater.Properties.Resources.resources
+C:\Users\Corey\Desktop\Corey's Portfolio\Visual Studio Windows Forms\C#\Big Movie Theater\Big Movie Theater\obj\Debug\Big Movie Theater.csproj.GenerateResource.cache
+C:\Users\Corey\Desktop\Corey's Portfolio\Visual Studio Windows Forms\C#\Big Movie Theater\Big Movie Theater\obj\Debug\Big Movie Theater.csproj.CoreCompileInputs.cache
+C:\Users\Corey\Desktop\Corey's Portfolio\Visual Studio Windows Forms\C#\Big Movie Theater\Big Movie Theater\obj\Debug\Big Movie Theater.exe
+C:\Users\Corey\Desktop\Corey's Portfolio\Visual Studio Windows Forms\C#\Big Movie Theater\Big Movie Theater\obj\Debug\Big Movie Theater.pdb
+C:\Users\Corey\Desktop\Corey's Portfolio\Visual Studio Windows Forms\C#\Big Movie Theater\Big Movie Theater\obj\Debug\Big_Movie_Theater.frmBigMovie.resources
+C:\Users\Corey\Desktop\Corey's Portfolio\Visual Studio Windows Forms\C#\Big Movie Theater\Big Movie Theater\obj\Debug\Big Movie Theater.csproj.AssemblyReference.cache

@@ -1,0 +1,10 @@
+C:\Users\Corey\Desktop\Corey's Portfolio\Visual Studio Windows Forms\C#\Beach Bike Rentals\Beach Bike Rentals\bin\Debug\Beach Bike Rentals.exe.config
+C:\Users\Corey\Desktop\Corey's Portfolio\Visual Studio Windows Forms\C#\Beach Bike Rentals\Beach Bike Rentals\bin\Debug\Beach Bike Rentals.exe
+C:\Users\Corey\Desktop\Corey's Portfolio\Visual Studio Windows Forms\C#\Beach Bike Rentals\Beach Bike Rentals\bin\Debug\Beach Bike Rentals.pdb
+C:\Users\Corey\Desktop\Corey's Portfolio\Visual Studio Windows Forms\C#\Beach Bike Rentals\Beach Bike Rentals\obj\Debug\Beach_Bike_Rentals.frmBeachBikeRentals.resources
+C:\Users\Corey\Desktop\Corey's Portfolio\Visual Studio Windows Forms\C#\Beach Bike Rentals\Beach Bike Rentals\obj\Debug\Beach_Bike_Rentals.Properties.Resources.resources
+C:\Users\Corey\Desktop\Corey's Portfolio\Visual Studio Windows Forms\C#\Beach Bike Rentals\Beach Bike Rentals\obj\Debug\Beach Bike Rentals.csproj.GenerateResource.cache
+C:\Users\Corey\Desktop\Corey's Portfolio\Visual Studio Windows Forms\C#\Beach Bike Rentals\Beach Bike Rentals\obj\Debug\Beach Bike Rentals.csproj.CoreCompileInputs.cache
+C:\Users\Corey\Desktop\Corey's Portfolio\Visual Studio Windows Forms\C#\Beach Bike Rentals\Beach Bike Rentals\obj\Debug\Beach Bike Rentals.exe
+C:\Users\Corey\Desktop\Corey's Portfolio\Visual Studio Windows Forms\C#\Beach Bike Rentals\Beach Bike Rentals\obj\Debug\Beach Bike Rentals.pdb
+C:\Users\Corey\Desktop\Corey's Portfolio\Visual Studio Windows Forms\C#\Beach Bike Rentals\Beach Bike Rentals\obj\Debug\Beach Bike Rentals.csproj.AssemblyReference.cache

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Beach Bike Rentals", "Beach Bike Rentals\Beach Bike Rentals.csproj", "{015A960F-F1D5-4DFD-9D7B-D9D043BFB3D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{015A960F-F1D5-4DFD-9D7B-D9D043BFB3D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{015A960F-F1D5-4DFD-9D7B-D9D043BFB3D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{015A960F-F1D5-4DFD-9D7B-D9D043BFB3D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{015A960F-F1D5-4DFD-9D7B-D9D043BFB3D6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F0AB7030-6BF3-4A51-9713-B3826D0BEDDA}
+	EndGlobalSection
+EndGlobal
