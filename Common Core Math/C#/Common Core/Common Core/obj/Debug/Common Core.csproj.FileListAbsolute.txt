@@ -1,0 +1,14 @@
+C:\Users\Corey\Desktop\Programs\C#\Common Core\Common Core\obj\Debug\Common Core.csprojAssemblyReference.cache
+C:\Users\Corey\Desktop\Programs\C#\Common Core\Common Core\obj\Debug\Common Core.csproj.CoreCompileInputs.cache
+C:\Users\Corey\Desktop\Programs\C#\Common Core\Common Core\bin\Debug\Common Core.exe.config
+C:\Users\Corey\Desktop\Programs\C#\Common Core\Common Core\bin\Debug\Common Core.exe
+C:\Users\Corey\Desktop\Programs\C#\Common Core\Common Core\bin\Debug\Common Core.pdb
+C:\Users\Corey\Desktop\Programs\C#\Common Core\Common Core\obj\Debug\Common Core.exe
+C:\Users\Corey\Desktop\Programs\C#\Common Core\Common Core\obj\Debug\Common Core.pdb
+C:\Users\Corey\Desktop\Corey's Portfolio\Common Core Math\C#\Common Core\Common Core\bin\Debug\Common Core.exe.config
+C:\Users\Corey\Desktop\Corey's Portfolio\Common Core Math\C#\Common Core\Common Core\bin\Debug\Common Core.exe
+C:\Users\Corey\Desktop\Corey's Portfolio\Common Core Math\C#\Common Core\Common Core\bin\Debug\Common Core.pdb
+C:\Users\Corey\Desktop\Corey's Portfolio\Common Core Math\C#\Common Core\Common Core\obj\Debug\Common Core.csproj.AssemblyReference.cache
+C:\Users\Corey\Desktop\Corey's Portfolio\Common Core Math\C#\Common Core\Common Core\obj\Debug\Common Core.csproj.CoreCompileInputs.cache
+C:\Users\Corey\Desktop\Corey's Portfolio\Common Core Math\C#\Common Core\Common Core\obj\Debug\Common Core.exe
+C:\Users\Corey\Desktop\Corey's Portfolio\Common Core Math\C#\Common Core\Common Core\obj\Debug\Common Core.pdb
