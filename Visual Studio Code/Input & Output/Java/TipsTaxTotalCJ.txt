@@ -1,0 +1,42 @@
+/* Programmer: Corey Jenkins
+	Date: September 2, 2016
+	Project: Tips
+*/
+
+import java.util.Scanner; // the scanner is used to pull up a dialog box for you to enter the numbers.
+
+	public class Tips
+	{
+		public static void main(String args[])
+		{
+			Double price, tip, tax, addtax, addtip, total;
+
+			Scanner in = new Scanner(System.in); // this is the scanner utlility, the "in" in System.in is used to enter numbers.
+
+			System.out.println("Please enter a price for this product.");
+			price = in.nextDouble();
+
+			addtax=(price*X); // addtax is when you use that number when you multiply the sales tax with the price.
+			tax=(price)+(addtax); // to get the complete price, one must use that number (addtax) with the price.
+
+			System.out.println("With the inclusion of the sales tax, the total is, " + tax);
+
+			System.out.println("Please enter a price for a product.");
+			price = in.nextDouble();
+
+			addtip=(price*P); // addtip is when you use the price and mutlply the price by the tip percentage.
+			tip=(addtip+price); // use that "addtip" number and add it with the price to get the total.
+
+			System.out.println("With the inclusion of the tip, the total is, " + tip);
+
+			System.out.println("Please enter a price for a product.");
+			price = in.nextDouble();
+
+			addtax=(price*X);
+			addtip=(price*P);
+			total=(price)+(addtax)+(addtip);// This is when you add both.
+
+			System.out.println("With the inclusion of both the tip and the sales tax, the total is, " + total);
+
+		}
+	}

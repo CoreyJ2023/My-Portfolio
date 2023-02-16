@@ -1,0 +1,22 @@
+/*
+Programmer:         Corey Jenkins
+filename:           Loops.txt
+Date:               October 17, 2022
+Purpose:            Pass down two numbers and then place a number in a loop.
+*/
+
+Module main()
+    Declare Integer firstNumber
+    Declare Integer secondNumber
+    firstNumber = 3
+    secondNumber = 5
+    Call ShowNum(firstNumber, secondNumber)
+end main
+
+ Module ShowNum(int num1, int num2)
+    answer = num1 + num2
+    Declare Integer index  
+    for(index = 0 index < answer index++)
+        Display "Hello World."
+
+end Module ShowNum

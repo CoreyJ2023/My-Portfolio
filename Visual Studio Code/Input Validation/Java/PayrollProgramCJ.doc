@@ -1,0 +1,38 @@
+/**Documentation
+	Chapter 7
+	Programming Exercise 1: Payroll Program with Input Validation
+	Programmer: Corey Jenkins    Date: 04-05-2017
+	Description: To calculate hours and payroll, but using a while loop to prevent any numbers less than or
+	greater than the range of numbers for each.
+**/
+
+Module main()
+	Declare Function showResults
+End Module
+
+Function showResults
+	Declare Integer hours
+	Declare Real hourlyPay, totalPay
+	
+	Display "How many hours worked: "
+	Input hours
+	
+	While hours < 0 OR hours > 40
+		Display "Sorry. You must enter hours between 0 and 40"
+		Display "Please enter the hours again."
+		Input hours
+	End While
+	
+	Display "What is the pay?"
+	Input hourlypay
+	
+	While hourlyPay < 7.50 OR hourlyPay > 18.25
+		Display "Sorry. You must enter hours that are between"
+		Display	"7.50 and 18.25. Try again."
+		Input hourlyPay
+	End While
+	
+	totalPay = hours * hourlyPay
+	
+	Display ""The total amount is," totalPay
+End Function 

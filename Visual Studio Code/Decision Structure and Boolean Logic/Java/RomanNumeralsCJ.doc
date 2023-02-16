@@ -1,0 +1,45 @@
+/*
+	Chapter 4
+	Programming exercise 1: Roman Numerals
+	Programmer: Corey Jenkins    Date: 8-18-2017 (Updated February 9, 2023)
+	Description: To create a program that gives an error if a Roman Numeral is used outside I through X
+*/
+
+Module main()
+	Declare showMessage
+End Module
+
+Module ShowMessage
+	
+	Declare Integer number
+	
+	Display "Please type in a number between 1 through 10: "
+	input number
+	
+	Select number
+		Case 1: 
+			Display "Roman Numeral I"
+		Case 2:
+			Display "Roman Numeral II" 
+		Case 3:
+			Display "Roman Numeral III" 
+		Case 4:
+			Display "Roman Numeral IV"
+		Case 5:
+			Display "Roman Numeral V"
+		Case 6:
+			Display "Roman Numeral VI"
+		Case 7:
+			Display "Roman Numeral VII"
+		Case 8:
+			Display "Roman Numeral VIII"
+		Case 9:
+			Display "Roman Numeral VIIII"
+		Case 10:
+			Display "Roman Numeral X"
+		Default:
+			Display "An error has occurred. Please, use numbers 1 through 10."
+	End Select
+	End Module
+	
+	

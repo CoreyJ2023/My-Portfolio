@@ -1,0 +1,6 @@
+C:\Users\Corey\Desktop\Corey's Portfolio\Linear Algebra\Multiplying Matrices\C#\MultiplyingMatrices2\obj\Debug\MultiplyingMatrices2.csproj.AssemblyReference.cache
+C:\Users\Corey\Desktop\Corey's Portfolio\Linear Algebra\Multiplying Matrices\C#\MultiplyingMatrices2\obj\Debug\MultiplyingMatrices2.csproj.CoreCompileInputs.cache
+C:\Users\Corey\Desktop\Corey's Portfolio\Linear Algebra\Multiplying Matrices\C#\MultiplyingMatrices2\bin\Debug\MultiplyingMatrices2.exe
+C:\Users\Corey\Desktop\Corey's Portfolio\Linear Algebra\Multiplying Matrices\C#\MultiplyingMatrices2\bin\Debug\MultiplyingMatrices2.pdb
+C:\Users\Corey\Desktop\Corey's Portfolio\Linear Algebra\Multiplying Matrices\C#\MultiplyingMatrices2\obj\Debug\MultiplyingMatrices2.exe
+C:\Users\Corey\Desktop\Corey's Portfolio\Linear Algebra\Multiplying Matrices\C#\MultiplyingMatrices2\obj\Debug\MultiplyingMatrices2.pdb
