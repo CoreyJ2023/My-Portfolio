@@ -1,0 +1,7 @@
+C:\Users\Corey\Desktop\Corey's Portfolio\Logic & Design\Visual Studio 2019 Community Edition\Input Validation\C#\AlgorithmValidationInput1\AlgorithmValidationInput1\obj\Debug\AlgorithmValidationInput1.csprojAssemblyReference.cache
+C:\Users\Corey\Desktop\Corey's Portfolio\Logic & Design\Visual Studio 2019 Community Edition\Input Validation\C#\AlgorithmValidationInput1\AlgorithmValidationInput1\obj\Debug\AlgorithmValidationInput1.csproj.CoreCompileInputs.cache
+C:\Users\Corey\Desktop\Corey's Portfolio\Logic & Design\Visual Studio 2019 Community Edition\Input Validation\C#\AlgorithmValidationInput1\AlgorithmValidationInput1\bin\Debug\AlgorithmValidationInput1.exe.config
+C:\Users\Corey\Desktop\Corey's Portfolio\Logic & Design\Visual Studio 2019 Community Edition\Input Validation\C#\AlgorithmValidationInput1\AlgorithmValidationInput1\bin\Debug\AlgorithmValidationInput1.exe
+C:\Users\Corey\Desktop\Corey's Portfolio\Logic & Design\Visual Studio 2019 Community Edition\Input Validation\C#\AlgorithmValidationInput1\AlgorithmValidationInput1\bin\Debug\AlgorithmValidationInput1.pdb
+C:\Users\Corey\Desktop\Corey's Portfolio\Logic & Design\Visual Studio 2019 Community Edition\Input Validation\C#\AlgorithmValidationInput1\AlgorithmValidationInput1\obj\Debug\AlgorithmValidationInput1.exe
+C:\Users\Corey\Desktop\Corey's Portfolio\Logic & Design\Visual Studio 2019 Community Edition\Input Validation\C#\AlgorithmValidationInput1\AlgorithmValidationInput1\obj\Debug\AlgorithmValidationInput1.pdb
