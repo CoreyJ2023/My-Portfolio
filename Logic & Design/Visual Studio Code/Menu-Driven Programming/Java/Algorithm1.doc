@@ -1,0 +1,37 @@
+/**Documentation
+	Algorithm 1
+	Programmer: Corey Jenkins    Date: 11-11-2017
+
+**/
+
+Module main()
+	Call menu
+End Module
+
+Function menu()
+	Declare Integer menuSelection
+	Display "This is the main menu."
+	Display "1. Open a menu."
+	Display "2. Close the current document."
+	Display "3. Print the current document."
+	Display "4. Exit the program."
+	
+	Display "Enter your selecton."
+	
+	// Perform the selected operation
+	
+	if menuSelection == 1 Then
+		Display "Opening the document."
+	if else menuSelection == 2 Then
+		Display "Closing the document."
+	if else menuSelection == 3 Then
+		Display "Printing the document."
+	if else menuSelection == 4 Then
+		Display "Exiting the program."
+	else
+		Display "That is an invalid selection."
+End Function
+
+
+
+	
