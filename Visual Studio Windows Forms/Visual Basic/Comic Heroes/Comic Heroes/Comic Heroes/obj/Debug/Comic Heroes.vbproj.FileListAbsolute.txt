@@ -1,0 +1,12 @@
+C:\Users\Corey\source\repos\Comic Heroes\Comic Heroes\bin\Debug\Comic Heroes.exe.config
+C:\Users\Corey\source\repos\Comic Heroes\Comic Heroes\bin\Debug\Comic Heroes.exe
+C:\Users\Corey\source\repos\Comic Heroes\Comic Heroes\bin\Debug\Comic Heroes.pdb
+C:\Users\Corey\source\repos\Comic Heroes\Comic Heroes\bin\Debug\Comic Heroes.xml
+C:\Users\Corey\source\repos\Comic Heroes\Comic Heroes\obj\Debug\Comic Heroes.vbprojResolveAssemblyReference.cache
+C:\Users\Corey\source\repos\Comic Heroes\Comic Heroes\obj\Debug\Comic_Heroes.frmComic.resources
+C:\Users\Corey\source\repos\Comic Heroes\Comic Heroes\obj\Debug\Comic_Heroes.Resources.resources
+C:\Users\Corey\source\repos\Comic Heroes\Comic Heroes\obj\Debug\Comic Heroes.vbproj.GenerateResource.Cache
+C:\Users\Corey\source\repos\Comic Heroes\Comic Heroes\obj\Debug\Comic Heroes.vbproj.CoreCompileInputs.cache
+C:\Users\Corey\source\repos\Comic Heroes\Comic Heroes\obj\Debug\Comic Heroes.exe
+C:\Users\Corey\source\repos\Comic Heroes\Comic Heroes\obj\Debug\Comic Heroes.xml
+C:\Users\Corey\source\repos\Comic Heroes\Comic Heroes\obj\Debug\Comic Heroes.pdb

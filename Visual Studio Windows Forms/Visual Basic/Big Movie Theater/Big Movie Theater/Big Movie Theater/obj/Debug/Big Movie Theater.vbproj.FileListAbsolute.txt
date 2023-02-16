@@ -1,0 +1,12 @@
+C:\Users\Corey\source\repos\Big Movie Theater\Big Movie Theater\bin\Debug\Big Movie Theater.exe.config
+C:\Users\Corey\source\repos\Big Movie Theater\Big Movie Theater\bin\Debug\Big Movie Theater.exe
+C:\Users\Corey\source\repos\Big Movie Theater\Big Movie Theater\bin\Debug\Big Movie Theater.pdb
+C:\Users\Corey\source\repos\Big Movie Theater\Big Movie Theater\bin\Debug\Big Movie Theater.xml
+C:\Users\Corey\source\repos\Big Movie Theater\Big Movie Theater\obj\Debug\Big Movie Theater.vbprojResolveAssemblyReference.cache
+C:\Users\Corey\source\repos\Big Movie Theater\Big Movie Theater\obj\Debug\Big_Movie_Theater.Resources.resources
+C:\Users\Corey\source\repos\Big Movie Theater\Big Movie Theater\obj\Debug\Big_Movie_Theater.frmMovie.resources
+C:\Users\Corey\source\repos\Big Movie Theater\Big Movie Theater\obj\Debug\Big Movie Theater.vbproj.GenerateResource.Cache
+C:\Users\Corey\source\repos\Big Movie Theater\Big Movie Theater\obj\Debug\Big Movie Theater.vbproj.CoreCompileInputs.cache
+C:\Users\Corey\source\repos\Big Movie Theater\Big Movie Theater\obj\Debug\Big Movie Theater.exe
+C:\Users\Corey\source\repos\Big Movie Theater\Big Movie Theater\obj\Debug\Big Movie Theater.xml
+C:\Users\Corey\source\repos\Big Movie Theater\Big Movie Theater\obj\Debug\Big Movie Theater.pdb
