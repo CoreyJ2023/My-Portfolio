@@ -1,0 +1,14 @@
+C:\Users\Corey\Desktop\Corey's Portfolio\Logic & Design\Visual Studio 2019 Community Edition\Decision and Booleans\C#\Area of Rectangles\bin\Debug\netcoreapp3.1\Area of Rectangles.exe
+C:\Users\Corey\Desktop\Corey's Portfolio\Logic & Design\Visual Studio 2019 Community Edition\Decision and Booleans\C#\Area of Rectangles\bin\Debug\netcoreapp3.1\Area of Rectangles.deps.json
+C:\Users\Corey\Desktop\Corey's Portfolio\Logic & Design\Visual Studio 2019 Community Edition\Decision and Booleans\C#\Area of Rectangles\bin\Debug\netcoreapp3.1\Area of Rectangles.runtimeconfig.json
+C:\Users\Corey\Desktop\Corey's Portfolio\Logic & Design\Visual Studio 2019 Community Edition\Decision and Booleans\C#\Area of Rectangles\bin\Debug\netcoreapp3.1\Area of Rectangles.runtimeconfig.dev.json
+C:\Users\Corey\Desktop\Corey's Portfolio\Logic & Design\Visual Studio 2019 Community Edition\Decision and Booleans\C#\Area of Rectangles\bin\Debug\netcoreapp3.1\Area of Rectangles.dll
+C:\Users\Corey\Desktop\Corey's Portfolio\Logic & Design\Visual Studio 2019 Community Edition\Decision and Booleans\C#\Area of Rectangles\bin\Debug\netcoreapp3.1\Area of Rectangles.pdb
+C:\Users\Corey\Desktop\Corey's Portfolio\Logic & Design\Visual Studio 2019 Community Edition\Decision and Booleans\C#\Area of Rectangles\obj\Debug\netcoreapp3.1\Area of Rectangles.csproj.AssemblyReference.cache
+C:\Users\Corey\Desktop\Corey's Portfolio\Logic & Design\Visual Studio 2019 Community Edition\Decision and Booleans\C#\Area of Rectangles\obj\Debug\netcoreapp3.1\Area of Rectangles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Corey\Desktop\Corey's Portfolio\Logic & Design\Visual Studio 2019 Community Edition\Decision and Booleans\C#\Area of Rectangles\obj\Debug\netcoreapp3.1\Area of Rectangles.AssemblyInfoInputs.cache
+C:\Users\Corey\Desktop\Corey's Portfolio\Logic & Design\Visual Studio 2019 Community Edition\Decision and Booleans\C#\Area of Rectangles\obj\Debug\netcoreapp3.1\Area of Rectangles.AssemblyInfo.cs
+C:\Users\Corey\Desktop\Corey's Portfolio\Logic & Design\Visual Studio 2019 Community Edition\Decision and Booleans\C#\Area of Rectangles\obj\Debug\netcoreapp3.1\Area of Rectangles.csproj.CoreCompileInputs.cache
+C:\Users\Corey\Desktop\Corey's Portfolio\Logic & Design\Visual Studio 2019 Community Edition\Decision and Booleans\C#\Area of Rectangles\obj\Debug\netcoreapp3.1\Area of Rectangles.dll
+C:\Users\Corey\Desktop\Corey's Portfolio\Logic & Design\Visual Studio 2019 Community Edition\Decision and Booleans\C#\Area of Rectangles\obj\Debug\netcoreapp3.1\Area of Rectangles.pdb
+C:\Users\Corey\Desktop\Corey's Portfolio\Logic & Design\Visual Studio 2019 Community Edition\Decision and Booleans\C#\Area of Rectangles\obj\Debug\netcoreapp3.1\Area of Rectangles.genruntimeconfig.cache

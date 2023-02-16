@@ -1,0 +1,14 @@
+C:\Users\Corey\Desktop\Corey's Portfolio\Logic & Design\Visual Studio 2019 Community Edition\Decision and Booleans\C#\Roman Numerals\bin\Debug\netcoreapp3.1\Roman Numerals.exe
+C:\Users\Corey\Desktop\Corey's Portfolio\Logic & Design\Visual Studio 2019 Community Edition\Decision and Booleans\C#\Roman Numerals\bin\Debug\netcoreapp3.1\Roman Numerals.deps.json
+C:\Users\Corey\Desktop\Corey's Portfolio\Logic & Design\Visual Studio 2019 Community Edition\Decision and Booleans\C#\Roman Numerals\bin\Debug\netcoreapp3.1\Roman Numerals.runtimeconfig.json
+C:\Users\Corey\Desktop\Corey's Portfolio\Logic & Design\Visual Studio 2019 Community Edition\Decision and Booleans\C#\Roman Numerals\bin\Debug\netcoreapp3.1\Roman Numerals.runtimeconfig.dev.json
+C:\Users\Corey\Desktop\Corey's Portfolio\Logic & Design\Visual Studio 2019 Community Edition\Decision and Booleans\C#\Roman Numerals\bin\Debug\netcoreapp3.1\Roman Numerals.dll
+C:\Users\Corey\Desktop\Corey's Portfolio\Logic & Design\Visual Studio 2019 Community Edition\Decision and Booleans\C#\Roman Numerals\bin\Debug\netcoreapp3.1\Roman Numerals.pdb
+C:\Users\Corey\Desktop\Corey's Portfolio\Logic & Design\Visual Studio 2019 Community Edition\Decision and Booleans\C#\Roman Numerals\obj\Debug\netcoreapp3.1\Roman Numerals.csproj.AssemblyReference.cache
+C:\Users\Corey\Desktop\Corey's Portfolio\Logic & Design\Visual Studio 2019 Community Edition\Decision and Booleans\C#\Roman Numerals\obj\Debug\netcoreapp3.1\Roman Numerals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Corey\Desktop\Corey's Portfolio\Logic & Design\Visual Studio 2019 Community Edition\Decision and Booleans\C#\Roman Numerals\obj\Debug\netcoreapp3.1\Roman Numerals.AssemblyInfoInputs.cache
+C:\Users\Corey\Desktop\Corey's Portfolio\Logic & Design\Visual Studio 2019 Community Edition\Decision and Booleans\C#\Roman Numerals\obj\Debug\netcoreapp3.1\Roman Numerals.AssemblyInfo.cs
+C:\Users\Corey\Desktop\Corey's Portfolio\Logic & Design\Visual Studio 2019 Community Edition\Decision and Booleans\C#\Roman Numerals\obj\Debug\netcoreapp3.1\Roman Numerals.csproj.CoreCompileInputs.cache
+C:\Users\Corey\Desktop\Corey's Portfolio\Logic & Design\Visual Studio 2019 Community Edition\Decision and Booleans\C#\Roman Numerals\obj\Debug\netcoreapp3.1\Roman Numerals.dll
+C:\Users\Corey\Desktop\Corey's Portfolio\Logic & Design\Visual Studio 2019 Community Edition\Decision and Booleans\C#\Roman Numerals\obj\Debug\netcoreapp3.1\Roman Numerals.pdb
+C:\Users\Corey\Desktop\Corey's Portfolio\Logic & Design\Visual Studio 2019 Community Edition\Decision and Booleans\C#\Roman Numerals\obj\Debug\netcoreapp3.1\Roman Numerals.genruntimeconfig.cache
