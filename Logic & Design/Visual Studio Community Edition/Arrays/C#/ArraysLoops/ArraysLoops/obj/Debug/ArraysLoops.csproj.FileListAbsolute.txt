@@ -1,0 +1,7 @@
+C:\Users\Corey\Desktop\Corey's Portfolio\Logic & Design\Visual Studio 2019 Community Edition\Arrays\C#\ArraysLoops\ArraysLoops\bin\Debug\ArraysLoops.exe.config
+C:\Users\Corey\Desktop\Corey's Portfolio\Logic & Design\Visual Studio 2019 Community Edition\Arrays\C#\ArraysLoops\ArraysLoops\bin\Debug\ArraysLoops.exe
+C:\Users\Corey\Desktop\Corey's Portfolio\Logic & Design\Visual Studio 2019 Community Edition\Arrays\C#\ArraysLoops\ArraysLoops\bin\Debug\ArraysLoops.pdb
+C:\Users\Corey\Desktop\Corey's Portfolio\Logic & Design\Visual Studio 2019 Community Edition\Arrays\C#\ArraysLoops\ArraysLoops\obj\Debug\ArraysLoops.csprojAssemblyReference.cache
+C:\Users\Corey\Desktop\Corey's Portfolio\Logic & Design\Visual Studio 2019 Community Edition\Arrays\C#\ArraysLoops\ArraysLoops\obj\Debug\ArraysLoops.csproj.CoreCompileInputs.cache
+C:\Users\Corey\Desktop\Corey's Portfolio\Logic & Design\Visual Studio 2019 Community Edition\Arrays\C#\ArraysLoops\ArraysLoops\obj\Debug\ArraysLoops.exe
+C:\Users\Corey\Desktop\Corey's Portfolio\Logic & Design\Visual Studio 2019 Community Edition\Arrays\C#\ArraysLoops\ArraysLoops\obj\Debug\ArraysLoops.pdb

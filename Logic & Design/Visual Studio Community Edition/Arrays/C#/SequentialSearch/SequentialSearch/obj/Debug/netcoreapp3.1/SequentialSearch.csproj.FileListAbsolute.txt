@@ -1,0 +1,14 @@
+C:\Users\Corey\Desktop\Corey's Portfolio\Logic & Design\Visual Studio 2019 Community Edition\Arrays\C#\SequentialSearch\SequentialSearch\bin\Debug\netcoreapp3.1\SequentialSearch.exe
+C:\Users\Corey\Desktop\Corey's Portfolio\Logic & Design\Visual Studio 2019 Community Edition\Arrays\C#\SequentialSearch\SequentialSearch\bin\Debug\netcoreapp3.1\SequentialSearch.deps.json
+C:\Users\Corey\Desktop\Corey's Portfolio\Logic & Design\Visual Studio 2019 Community Edition\Arrays\C#\SequentialSearch\SequentialSearch\bin\Debug\netcoreapp3.1\SequentialSearch.runtimeconfig.json
+C:\Users\Corey\Desktop\Corey's Portfolio\Logic & Design\Visual Studio 2019 Community Edition\Arrays\C#\SequentialSearch\SequentialSearch\bin\Debug\netcoreapp3.1\SequentialSearch.runtimeconfig.dev.json
+C:\Users\Corey\Desktop\Corey's Portfolio\Logic & Design\Visual Studio 2019 Community Edition\Arrays\C#\SequentialSearch\SequentialSearch\bin\Debug\netcoreapp3.1\SequentialSearch.dll
+C:\Users\Corey\Desktop\Corey's Portfolio\Logic & Design\Visual Studio 2019 Community Edition\Arrays\C#\SequentialSearch\SequentialSearch\bin\Debug\netcoreapp3.1\SequentialSearch.pdb
+C:\Users\Corey\Desktop\Corey's Portfolio\Logic & Design\Visual Studio 2019 Community Edition\Arrays\C#\SequentialSearch\SequentialSearch\obj\Debug\netcoreapp3.1\SequentialSearch.csproj.AssemblyReference.cache
+C:\Users\Corey\Desktop\Corey's Portfolio\Logic & Design\Visual Studio 2019 Community Edition\Arrays\C#\SequentialSearch\SequentialSearch\obj\Debug\netcoreapp3.1\SequentialSearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Corey\Desktop\Corey's Portfolio\Logic & Design\Visual Studio 2019 Community Edition\Arrays\C#\SequentialSearch\SequentialSearch\obj\Debug\netcoreapp3.1\SequentialSearch.AssemblyInfoInputs.cache
+C:\Users\Corey\Desktop\Corey's Portfolio\Logic & Design\Visual Studio 2019 Community Edition\Arrays\C#\SequentialSearch\SequentialSearch\obj\Debug\netcoreapp3.1\SequentialSearch.AssemblyInfo.cs
+C:\Users\Corey\Desktop\Corey's Portfolio\Logic & Design\Visual Studio 2019 Community Edition\Arrays\C#\SequentialSearch\SequentialSearch\obj\Debug\netcoreapp3.1\SequentialSearch.csproj.CoreCompileInputs.cache
+C:\Users\Corey\Desktop\Corey's Portfolio\Logic & Design\Visual Studio 2019 Community Edition\Arrays\C#\SequentialSearch\SequentialSearch\obj\Debug\netcoreapp3.1\SequentialSearch.dll
+C:\Users\Corey\Desktop\Corey's Portfolio\Logic & Design\Visual Studio 2019 Community Edition\Arrays\C#\SequentialSearch\SequentialSearch\obj\Debug\netcoreapp3.1\SequentialSearch.pdb
+C:\Users\Corey\Desktop\Corey's Portfolio\Logic & Design\Visual Studio 2019 Community Edition\Arrays\C#\SequentialSearch\SequentialSearch\obj\Debug\netcoreapp3.1\SequentialSearch.genruntimeconfig.cache
