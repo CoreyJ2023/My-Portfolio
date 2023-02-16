@@ -1,0 +1,12 @@
+C:\Users\Corey\source\repos\Latte Selection\Latte Selection\bin\Debug\Latte Selection.exe.config
+C:\Users\Corey\source\repos\Latte Selection\Latte Selection\bin\Debug\Latte Selection.exe
+C:\Users\Corey\source\repos\Latte Selection\Latte Selection\bin\Debug\Latte Selection.pdb
+C:\Users\Corey\source\repos\Latte Selection\Latte Selection\bin\Debug\Latte Selection.xml
+C:\Users\Corey\source\repos\Latte Selection\Latte Selection\obj\Debug\Latte Selection.vbprojResolveAssemblyReference.cache
+C:\Users\Corey\source\repos\Latte Selection\Latte Selection\obj\Debug\Latte_Selection.frmLatteSelection.resources
+C:\Users\Corey\source\repos\Latte Selection\Latte Selection\obj\Debug\Latte_Selection.Resources.resources
+C:\Users\Corey\source\repos\Latte Selection\Latte Selection\obj\Debug\Latte Selection.vbproj.GenerateResource.Cache
+C:\Users\Corey\source\repos\Latte Selection\Latte Selection\obj\Debug\Latte Selection.vbproj.CoreCompileInputs.cache
+C:\Users\Corey\source\repos\Latte Selection\Latte Selection\obj\Debug\Latte Selection.exe
+C:\Users\Corey\source\repos\Latte Selection\Latte Selection\obj\Debug\Latte Selection.xml
+C:\Users\Corey\source\repos\Latte Selection\Latte Selection\obj\Debug\Latte Selection.pdb
