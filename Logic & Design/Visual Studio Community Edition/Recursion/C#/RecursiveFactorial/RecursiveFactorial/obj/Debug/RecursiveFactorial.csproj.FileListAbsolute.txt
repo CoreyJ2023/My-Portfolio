@@ -1,0 +1,6 @@
+C:\Users\Corey\Desktop\Corey's Portfolio\Logic & Design\Visual Studio 2019 Community Edition\Recursion\C#\RecursiveFactorial\RecursiveFactorial\bin\Debug\RecursiveFactorial.exe
+C:\Users\Corey\Desktop\Corey's Portfolio\Logic & Design\Visual Studio 2019 Community Edition\Recursion\C#\RecursiveFactorial\RecursiveFactorial\bin\Debug\RecursiveFactorial.pdb
+C:\Users\Corey\Desktop\Corey's Portfolio\Logic & Design\Visual Studio 2019 Community Edition\Recursion\C#\RecursiveFactorial\RecursiveFactorial\obj\Debug\RecursiveFactorial.csprojAssemblyReference.cache
+C:\Users\Corey\Desktop\Corey's Portfolio\Logic & Design\Visual Studio 2019 Community Edition\Recursion\C#\RecursiveFactorial\RecursiveFactorial\obj\Debug\RecursiveFactorial.csproj.CoreCompileInputs.cache
+C:\Users\Corey\Desktop\Corey's Portfolio\Logic & Design\Visual Studio 2019 Community Edition\Recursion\C#\RecursiveFactorial\RecursiveFactorial\obj\Debug\RecursiveFactorial.exe
+C:\Users\Corey\Desktop\Corey's Portfolio\Logic & Design\Visual Studio 2019 Community Edition\Recursion\C#\RecursiveFactorial\RecursiveFactorial\obj\Debug\RecursiveFactorial.pdb
