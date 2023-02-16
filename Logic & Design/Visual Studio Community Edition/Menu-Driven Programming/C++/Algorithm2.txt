@@ -1,0 +1,59 @@
+/**Documentation
+	Chapter 11
+	Algorithm 2
+	Programmer: Corey Jenkins    Date: 11-11-2017
+
+**/
+
+Module main()
+	Call menu
+End Module
+
+Function menu()
+	Declare Integer menuSelection
+	Display "This is the main menu."
+	Display "1. Open a menu."
+	Display "2. Close the current document."
+	Display "3. Print the current document."
+	Display "4. Exit the program."
+	
+	Display "Enter your selecton."
+	
+	// Validate the menu selection.
+	While selection < 1 OR Selection > 4
+	Display, "That is an invalid selecton. "
+		 "Enter 1, 2, 3, or 4."
+		Input menuSelection
+	End While
+	
+	// Perform the selected operation
+	Select menuSelection
+		Case 1:
+			// Open the document
+			Module openDocument
+				
+		Case 2:
+			// Close the current document
+			 Module closeDocument
+			
+		Case 3:
+			// Print the current document
+			 Module printDocument
+			
+		Case 4:
+			// Exit Program
+			Display "Exiting Program."
+	End Selection
+	
+	Call openDocument
+		Display "Opening the document."
+	End Module
+	
+	Call closeDocument
+		Display "Closing the document."
+	End Module
+	
+	Call printDocument
+		Display "Printing the document."
+	End Module	
+End Function
