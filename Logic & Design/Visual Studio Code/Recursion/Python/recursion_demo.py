@@ -6,7 +6,7 @@ Purpose:        A demonstration on using a recursion in Python.
 '''
 
 def main():
-    # We are passing the argument 5 to the message module.
+    # We are passing the value 5 to the message module.
     # We are telling it to display it five times.
     message(5)
     
