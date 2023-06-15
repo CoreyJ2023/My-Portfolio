@@ -1,1 +1,0 @@
-This contains files and projects done from The Cloud Boot Camp. Cloud training started on June 5th and ended on June 18th. Technologies learned: AWS, Google Cloud, TerraForm, Docker and Kubernetes.
