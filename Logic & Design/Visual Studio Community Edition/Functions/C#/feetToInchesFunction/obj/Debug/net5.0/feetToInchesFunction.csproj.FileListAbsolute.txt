@@ -1,0 +1,15 @@
+C:\Users\Corey\Desktop\Corey's Portfolio\Logic & Design\Visual Studio 2019 Community Edition\Functions\C#\feetToInchesFunction\bin\Debug\net5.0\feetToInchesFunction.exe
+C:\Users\Corey\Desktop\Corey's Portfolio\Logic & Design\Visual Studio 2019 Community Edition\Functions\C#\feetToInchesFunction\bin\Debug\net5.0\feetToInchesFunction.deps.json
+C:\Users\Corey\Desktop\Corey's Portfolio\Logic & Design\Visual Studio 2019 Community Edition\Functions\C#\feetToInchesFunction\bin\Debug\net5.0\feetToInchesFunction.runtimeconfig.json
+C:\Users\Corey\Desktop\Corey's Portfolio\Logic & Design\Visual Studio 2019 Community Edition\Functions\C#\feetToInchesFunction\bin\Debug\net5.0\feetToInchesFunction.runtimeconfig.dev.json
+C:\Users\Corey\Desktop\Corey's Portfolio\Logic & Design\Visual Studio 2019 Community Edition\Functions\C#\feetToInchesFunction\bin\Debug\net5.0\feetToInchesFunction.dll
+C:\Users\Corey\Desktop\Corey's Portfolio\Logic & Design\Visual Studio 2019 Community Edition\Functions\C#\feetToInchesFunction\bin\Debug\net5.0\ref\feetToInchesFunction.dll
+C:\Users\Corey\Desktop\Corey's Portfolio\Logic & Design\Visual Studio 2019 Community Edition\Functions\C#\feetToInchesFunction\bin\Debug\net5.0\feetToInchesFunction.pdb
+C:\Users\Corey\Desktop\Corey's Portfolio\Logic & Design\Visual Studio 2019 Community Edition\Functions\C#\feetToInchesFunction\obj\Debug\net5.0\feetToInchesFunction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Corey\Desktop\Corey's Portfolio\Logic & Design\Visual Studio 2019 Community Edition\Functions\C#\feetToInchesFunction\obj\Debug\net5.0\feetToInchesFunction.AssemblyInfoInputs.cache
+C:\Users\Corey\Desktop\Corey's Portfolio\Logic & Design\Visual Studio 2019 Community Edition\Functions\C#\feetToInchesFunction\obj\Debug\net5.0\feetToInchesFunction.AssemblyInfo.cs
+C:\Users\Corey\Desktop\Corey's Portfolio\Logic & Design\Visual Studio 2019 Community Edition\Functions\C#\feetToInchesFunction\obj\Debug\net5.0\feetToInchesFunction.csproj.CoreCompileInputs.cache
+C:\Users\Corey\Desktop\Corey's Portfolio\Logic & Design\Visual Studio 2019 Community Edition\Functions\C#\feetToInchesFunction\obj\Debug\net5.0\feetToInchesFunction.dll
+C:\Users\Corey\Desktop\Corey's Portfolio\Logic & Design\Visual Studio 2019 Community Edition\Functions\C#\feetToInchesFunction\obj\Debug\net5.0\ref\feetToInchesFunction.dll
+C:\Users\Corey\Desktop\Corey's Portfolio\Logic & Design\Visual Studio 2019 Community Edition\Functions\C#\feetToInchesFunction\obj\Debug\net5.0\feetToInchesFunction.pdb
+C:\Users\Corey\Desktop\Corey's Portfolio\Logic & Design\Visual Studio 2019 Community Edition\Functions\C#\feetToInchesFunction\obj\Debug\net5.0\feetToInchesFunction.genruntimeconfig.cache

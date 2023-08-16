@@ -1,0 +1,16 @@
+C:\Users\Corey\Desktop\Corey's Portfolio\Logic & Design\Visual Studio 2019 Community Edition\Functions\C#\areaRectangleFunction\bin\Debug\net5.0\areaRectangleFunction.exe
+C:\Users\Corey\Desktop\Corey's Portfolio\Logic & Design\Visual Studio 2019 Community Edition\Functions\C#\areaRectangleFunction\bin\Debug\net5.0\areaRectangleFunction.deps.json
+C:\Users\Corey\Desktop\Corey's Portfolio\Logic & Design\Visual Studio 2019 Community Edition\Functions\C#\areaRectangleFunction\bin\Debug\net5.0\areaRectangleFunction.runtimeconfig.json
+C:\Users\Corey\Desktop\Corey's Portfolio\Logic & Design\Visual Studio 2019 Community Edition\Functions\C#\areaRectangleFunction\bin\Debug\net5.0\areaRectangleFunction.runtimeconfig.dev.json
+C:\Users\Corey\Desktop\Corey's Portfolio\Logic & Design\Visual Studio 2019 Community Edition\Functions\C#\areaRectangleFunction\bin\Debug\net5.0\areaRectangleFunction.dll
+C:\Users\Corey\Desktop\Corey's Portfolio\Logic & Design\Visual Studio 2019 Community Edition\Functions\C#\areaRectangleFunction\bin\Debug\net5.0\ref\areaRectangleFunction.dll
+C:\Users\Corey\Desktop\Corey's Portfolio\Logic & Design\Visual Studio 2019 Community Edition\Functions\C#\areaRectangleFunction\bin\Debug\net5.0\areaRectangleFunction.pdb
+C:\Users\Corey\Desktop\Corey's Portfolio\Logic & Design\Visual Studio 2019 Community Edition\Functions\C#\areaRectangleFunction\obj\Debug\net5.0\areaRectangleFunction.csproj.AssemblyReference.cache
+C:\Users\Corey\Desktop\Corey's Portfolio\Logic & Design\Visual Studio 2019 Community Edition\Functions\C#\areaRectangleFunction\obj\Debug\net5.0\areaRectangleFunction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Corey\Desktop\Corey's Portfolio\Logic & Design\Visual Studio 2019 Community Edition\Functions\C#\areaRectangleFunction\obj\Debug\net5.0\areaRectangleFunction.AssemblyInfoInputs.cache
+C:\Users\Corey\Desktop\Corey's Portfolio\Logic & Design\Visual Studio 2019 Community Edition\Functions\C#\areaRectangleFunction\obj\Debug\net5.0\areaRectangleFunction.AssemblyInfo.cs
+C:\Users\Corey\Desktop\Corey's Portfolio\Logic & Design\Visual Studio 2019 Community Edition\Functions\C#\areaRectangleFunction\obj\Debug\net5.0\areaRectangleFunction.csproj.CoreCompileInputs.cache
+C:\Users\Corey\Desktop\Corey's Portfolio\Logic & Design\Visual Studio 2019 Community Edition\Functions\C#\areaRectangleFunction\obj\Debug\net5.0\areaRectangleFunction.dll
+C:\Users\Corey\Desktop\Corey's Portfolio\Logic & Design\Visual Studio 2019 Community Edition\Functions\C#\areaRectangleFunction\obj\Debug\net5.0\ref\areaRectangleFunction.dll
+C:\Users\Corey\Desktop\Corey's Portfolio\Logic & Design\Visual Studio 2019 Community Edition\Functions\C#\areaRectangleFunction\obj\Debug\net5.0\areaRectangleFunction.pdb
+C:\Users\Corey\Desktop\Corey's Portfolio\Logic & Design\Visual Studio 2019 Community Edition\Functions\C#\areaRectangleFunction\obj\Debug\net5.0\areaRectangleFunction.genruntimeconfig.cache
