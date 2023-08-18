@@ -20,7 +20,7 @@ function PostBeginPlay()
     {
         `log("This should be displayed three times.");
     }
-    `log("H U E H!");
+    `log("Excellent!");
 
 }
 
