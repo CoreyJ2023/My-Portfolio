@@ -1,0 +1,14 @@
+c:\Users\Corey\Desktop\Programs\CellPhoneConstructor\CellPhoneConstructor\bin\Debug\net7.0\CellPhoneConstructor.exe
+c:\Users\Corey\Desktop\Programs\CellPhoneConstructor\CellPhoneConstructor\bin\Debug\net7.0\CellPhoneConstructor.deps.json
+c:\Users\Corey\Desktop\Programs\CellPhoneConstructor\CellPhoneConstructor\bin\Debug\net7.0\CellPhoneConstructor.runtimeconfig.json
+c:\Users\Corey\Desktop\Programs\CellPhoneConstructor\CellPhoneConstructor\bin\Debug\net7.0\CellPhoneConstructor.dll
+c:\Users\Corey\Desktop\Programs\CellPhoneConstructor\CellPhoneConstructor\bin\Debug\net7.0\CellPhoneConstructor.pdb
+c:\Users\Corey\Desktop\Programs\CellPhoneConstructor\CellPhoneConstructor\obj\Debug\net7.0\CellPhoneConstructor.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Corey\Desktop\Programs\CellPhoneConstructor\CellPhoneConstructor\obj\Debug\net7.0\CellPhoneConstructor.AssemblyInfoInputs.cache
+c:\Users\Corey\Desktop\Programs\CellPhoneConstructor\CellPhoneConstructor\obj\Debug\net7.0\CellPhoneConstructor.AssemblyInfo.cs
+c:\Users\Corey\Desktop\Programs\CellPhoneConstructor\CellPhoneConstructor\obj\Debug\net7.0\CellPhoneConstructor.csproj.CoreCompileInputs.cache
+c:\Users\Corey\Desktop\Programs\CellPhoneConstructor\CellPhoneConstructor\obj\Debug\net7.0\CellPhoneConstructor.dll
+c:\Users\Corey\Desktop\Programs\CellPhoneConstructor\CellPhoneConstructor\obj\Debug\net7.0\refint\CellPhoneConstructor.dll
+c:\Users\Corey\Desktop\Programs\CellPhoneConstructor\CellPhoneConstructor\obj\Debug\net7.0\CellPhoneConstructor.pdb
+c:\Users\Corey\Desktop\Programs\CellPhoneConstructor\CellPhoneConstructor\obj\Debug\net7.0\CellPhoneConstructor.genruntimeconfig.cache
+c:\Users\Corey\Desktop\Programs\CellPhoneConstructor\CellPhoneConstructor\obj\Debug\net7.0\ref\CellPhoneConstructor.dll
