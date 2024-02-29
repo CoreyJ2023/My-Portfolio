@@ -1,5 +1,5 @@
 /*
-Programmer:             Crim
+Programmer:             Corey Jenkins
 Date:                   August 16, 2022
 Program Name:           AwesomeActorBool.uc
 Purpose:                A demonstration of the boolean function.
