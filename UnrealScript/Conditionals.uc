@@ -1,8 +1,8 @@
 /*
-Programmer:             Corey Jenkins
-Date:                   August 16, 2022
-Program Name:           AwesomeActorIfElse.uc
-Purpose:                A demonstration of If/Else in UnrealScript.
+* Programmer:       Corey Jenkins
+* Date:             August 16, 2022
+* Program Name:     AwesomeActorIfElse.uc
+* Purpose:          A demonstration of If/Else in UnrealScript.
 */
 
 Class Conditionals extends Actor
