@@ -1,5 +1,5 @@
 /*
-Programmer:             Crim
+Programmer:             Corey Jenkins
 Date:                   August 16, 2022
 Program Name:           AwesomeActorIfElse.uc
 Purpose:                A demonstration of If/Else in UnrealScript.
