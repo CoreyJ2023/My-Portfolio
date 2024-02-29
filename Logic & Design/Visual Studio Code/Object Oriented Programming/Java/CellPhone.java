@@ -35,4 +35,18 @@ public class CellPhone
 	{
 		return retailPrice;
 	}
+
+	public static void main(String[] args)
+	{
+		CellPhone myPhone;
+		myPhone = new CellPhone();
+		
+		myPhone.setManufacturer();
+		myPhone.setModelNumber();
+		myPhone.setRetailPrice();
+
+		System.out.println("The manufacturer is: " + myPhone.getSetManufacturer());
+		System.out.println("The model number is: " + myPhone.getModelNumber());
+		System.out.println("The retail price is: " + myPhone.getRetailPrice());
+	}
 }
