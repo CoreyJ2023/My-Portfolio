@@ -58,7 +58,7 @@ int main()
             }
             regularTotal = gallonsRegular * MyGas.regular;
             printf("Here's the total. Thanks for fueling up:\n");
-            printf("%lf", regularTotal);
+            printf("$%.2lf", regularTotal);
             break;
         
         case 02:
@@ -75,7 +75,7 @@ int main()
             }
             plusTotal = gallonsPlus * MyGas.plus;
             printf("Here's the total. Thanks for fueling up:\n");
-            printf("%lf", plusTotal);
+            printf("$%.2lf", plusTotal);
             break;
 
         case 03:
@@ -92,7 +92,7 @@ int main()
             }
             supremeTotal = gallonsSupreme * MyGas.supreme;
             printf("Here is your total." "Thankks for fueling up:\n");
-            printf("%lf", supremeTotal);
+            printf("$%.2lf", supremeTotal);
             break;
         
         // Input validation.

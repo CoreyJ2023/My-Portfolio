@@ -50,7 +50,7 @@ int main()
 
             totalRegular = gallonsRegular * regularPrice;
             printf("Thank you for fueling with us. Your total:");
-            printf("%lf", totalRegular);
+            printf("%.2lf", totalRegular);
         break;
 
         case 02:
@@ -66,7 +66,7 @@ int main()
 
             totalPlus = gallonsPlus * plusPrice;
             printf("Thank you for fueling with us. Your total:");
-            printf("%lf", totalPlus);
+            printf("$%.2lf", totalPlus);
         break;
 
         case 03:
@@ -82,7 +82,7 @@ int main()
 
             totalSupreme = gallonsSupreme * supremePrice;
             printf("Thank you for fueling with us. Your total:");
-            printf("%lf", totalSupreme);
+            printf("$%.2lf", totalSupreme);
         break;
     }
 
