@@ -1,6 +1,6 @@
 /*
  *  Programmer:     Corey Jenkins
- *  Date:           November 11, 2025
+ *  Date:           November 11, 2024
  *  Filename:       gasolineStruct.c
  *  Purpose:        To construct a fueling program that uses structs, a case/switch
 */
