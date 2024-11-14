@@ -1,6 +1,6 @@
 /*
  *  Programmer:     Corey Jenkins
- *  Date:           November 12, 2025
+ *  Date:           November 12, 2024
  *  Filename:       gasolineSelection.c
  *  Purpose:        A program to select the fuel grade and how much gallons of fuel to enter.
  *                  This program uses the case switch and while loop for input validations.
